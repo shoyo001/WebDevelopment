@@ -1,0 +1,110 @@
+One)
+Overview
+
+You have covered a lot of ground over the past five weeks. You should be proud! You are on your way to becoming a full-stack web developer. Let's recap what you've done so far.
+
+You have:
+
+Received an orientation with regards to the web development industry as whole
+Gotten your hands dirty with some Python
+Engaged with user-research and product planning processes and techniques
+Recently been immersed in the fundamentals of HTML, CSS and JavaScript.
+This first project is going to be one of five projects you will complete throughout the boot-camp. In addition to offering you hands-on experience, these projects will also serve as the first five items in your web development portfolio.
+
+For this first project, you are going to be developing an information-based website for a freelance professional or a business--either real or fictitious. This could be anything from creating a portfolio site for your friend who is a photographer, to making a website for a made-up pizza restaurant.
+
+While you have total control over the topic and depth of information contained in the site, you will be evaluated on your ability to meet both the technical requirements and workflow requirements.
+
+There are screenshots of an example project included in this document. Your project does not have to look identical to this. It is to be used as inspiration!
+
+Two)
+Workflow Requirements
+
+The following requirements are related to how you go about building your project
+
+Planning phase - the following should be completed prior to beginning the development phase and/or touching any code
+
+The following can be done on paper or using any number of widely available applications. A free one that may be useful is draw.io. You may find referring back to Module 1 of Designing a Technical Solution helpful.
+
+User stories
+1) Write out at least three user stories that describe how a user will interact with your site
+
+Wireframes
+2) Go ahead and create wireframes of each page of your site--they should include important content and ui elements such as images, links, buttons etc.
+
+Development phase
+3) Create a GitHub repository on Github.com (before you start coding)
+4) Clone it to your local machine (before you start coding)
+5) Make frequent commits throughout your development that are descriptive, such as "adds nav bar to home page" (throughout development/coding process)
+
+Three)
+Technical Requirements
+
+The following requirements are related to what your code should contain
+
+1) Your site should be comprised of at least three separate .html pages
+2) Your site should have a style.css file in your /css folder that contains your custom css
+3) All of your .html pages should link to and include the style.css , so that your stylesheet is shared site-wide
+4) Your pages should all be linked together using <a> tags, by way of a navigation bar
+5) Your site should include at least one image ( <img> tag )
+6) Your site should contain a form that includes at least three fields, at least two of which should be required.
+
+e.g. Here is an example of how you could meet this requirement for a contact form.
+ 
+
+ Name	 Type	 Validation
+ First Name	 input type of text	 required
+ Last Name	 input type of text	 none
+ Email	 input type of email	 required
+ Comment	 textarea	 required
+ Submit	 input type of submit	 none
+
+Four)
+Technical Requirement
+
+7) When a user submits your contact form, use Formspree.io to ensure you receive the submissions (optional)
+8) At least one page on your site should make use of a multi-column layout. For example, you may want to use Bootstrap's grid system to layout rows and columns of images on a "gallery" page of your site
+9) An implementation of either Bootstrap's carousel component or tabs component
+10) Your repository should be pushed to your GitHub account
+
+Five)
+
+Deliverables
+
+1) Your user stories
+2) A collection of wireframes - one for each view of your app
+3) Your app source code should be available for viewing in your GitHub repository
+4) A readme.md file in the root project folder that contains the following information about your project:
+
+Your name
+Overview/description of the project
+Details on how to use it or what functionality is offered
+Technologies Used ( .html , .css )
+Ideas for future improvement (minimum of 3)
+5) Your repository should contain at least 15 commits and should reflect a consistent commit history
+
+Six)
+Evaluation Criteria
+
+Functionality: 40 Points. Build the functionality that was asked in this document.  Following directions as a software developer is a very important trait.
+ 
+Robustness: 15 Points. Make sure your software is free from errors and glitches. Test your application thoroughly. You may choose if you perform automated testing, or you just test your code manually, but the end result should be of high quality.
+ 
+Creativity, styling, user experience: 15 Points. You will be graded on creativity. Make sure the application is not a mere clone of Quora or StackOverflow, but an application with something unique only you can offer.Go the extra mile to create code that you are proud of. Remember, the software you create is a part of your personal brand. If you have a few extraordinarily high quality portfolio items, you are a lot better off than having tens of mediocre portfolio items. Put everything you have learned into practice, and create code you will be proud of.
+ 
+Code quality: 10 Points. Use good development patterns, write maintainable code, and make sure you stick to one way of organizing your code. You may follow coding standards of famous companies, or you may follow your own. For bonus points, feel free to install a linter such as ESLint, and check that you conform to a standard way of writing JavaScript. Make sure your functions are short, unless you implement a lookup table of if-elses or switches. For easy readability, I recommend decomposing functions that are longer than 10 lines in the code base. Write sufficient comments in the code to explain what is going on.
+
+Seven)
+Evaluation Criteria
+
+GitHub structure: 10 Points. Write your code as if you were developing and maintaining an open source repository. Your commits should be granular, you should commit one thing at a time. If you choose to clean the surrounding code up while developing a new feature, separate the commits. For plus points, create GitHub issues to indicate which part of the application you are developing and what your task is. Always write descriptive commit messages, and if you choose to create issues, link the commit messages to your issues. Make sure you have a gitignore file, and you don’t commit files to the repository that do not belong there.
+ 
+Documentation, Installation instructions, Comments: 10 Points. Your code should be sufficiently commented for good understanding. Create a documentation that includes instructions on how to install your final project, and how to execute it. Sufficient installation instructions may make or break a project, because without knowing how a project can be used, not many people will reverse engineer the source code.
+
+Eight)
+Submission
+
+Submit your GitHub link and hosting link in the communication channel the instructor provided. All deliverables should be included on GitHub and the site should be made publicly available using a hosting service. 
+
+
+
