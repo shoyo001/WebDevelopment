@@ -1,0 +1,3 @@
+One) User will click on four menu items (One for each page on the site)
+Two) By clicking on the bottom of the first page, user is taking to contact form
+Three) User can scroll down through the Industries and Situations pages
